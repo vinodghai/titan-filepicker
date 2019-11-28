@@ -1,0 +1,2 @@
+include ':app', ':titanfilepicker'
+rootProject.name='FilePickerDemo'
